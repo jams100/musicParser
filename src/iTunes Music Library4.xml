@@ -1,0 +1,3851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.0</string>
+	<key>Features</key><integer>5</integer>
+	<key>Music Folder</key><string>file://localhost/G:/MP3/</string>
+	<key>Library Persistent ID</key><string>3B880FD26820EC45</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1071</key>
+		<dict>
+			<key>Track ID</key><integer>1071</integer>
+			<key>Name</key><string>All I Really Want</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6914748</integer>
+			<key>Total Time</key><integer>284708</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:33Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/01%20All%20I%20Really%20Want.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1074</key>
+		<dict>
+			<key>Track ID</key><integer>1074</integer>
+			<key>Name</key><string>You Oughta Know</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6064617</integer>
+			<key>Total Time</key><integer>249286</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:34Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3300167574</integer>
+			<key>Play Date UTC</key><date>2008-07-29T16:12:54Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2008-07-28T02:21:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AEF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/02%20You%20Oughta%20Know.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1076</key>
+		<dict>
+			<key>Track ID</key><integer>1076</integer>
+			<key>Name</key><string>Perfect</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4593184</integer>
+			<key>Total Time</key><integer>187977</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:35Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/03%20Perfect.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1078</key>
+		<dict>
+			<key>Track ID</key><integer>1078</integer>
+			<key>Name</key><string>Hand in My Pocket</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5404453</integer>
+			<key>Total Time</key><integer>221779</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:35Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/04%20Hand%20in%20My%20Pocket.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1080</key>
+		<dict>
+			<key>Track ID</key><integer>1080</integer>
+			<key>Name</key><string>Right Through You</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4303548</integer>
+			<key>Total Time</key><integer>175908</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:36Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3300828560</integer>
+			<key>Play Date UTC</key><date>2008-08-06T07:49:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/05%20Right%20Through%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1082</key>
+		<dict>
+			<key>Track ID</key><integer>1082</integer>
+			<key>Name</key><string>Forgiven</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7290276</integer>
+			<key>Total Time</key><integer>300355</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:37Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/06%20Forgiven.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1084</key>
+		<dict>
+			<key>Track ID</key><integer>1084</integer>
+			<key>Name</key><string>You Learn</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5835152</integer>
+			<key>Total Time</key><integer>239725</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:39Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/07%20You%20Learn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1086</key>
+		<dict>
+			<key>Track ID</key><integer>1086</integer>
+			<key>Name</key><string>Head Over Feet</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6497831</integer>
+			<key>Total Time</key><integer>267337</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:40Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/08%20Head%20Over%20Feet.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1088</key>
+		<dict>
+			<key>Track ID</key><integer>1088</integer>
+			<key>Name</key><string>Mary Jane</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6818819</integer>
+			<key>Total Time</key><integer>280711</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:41Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/09%20Mary%20Jane.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1090</key>
+		<dict>
+			<key>Track ID</key><integer>1090</integer>
+			<key>Name</key><string>Ironic</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5596286</integer>
+			<key>Total Time</key><integer>229773</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:42Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/10%20Ironic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1092</key>
+		<dict>
+			<key>Track ID</key><integer>1092</integer>
+			<key>Name</key><string>Not the Doctor</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5546139</integer>
+			<key>Total Time</key><integer>227683</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:43Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/11%20Not%20the%20Doctor.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1094</key>
+		<dict>
+			<key>Track ID</key><integer>1094</integer>
+			<key>Name</key><string>Wake Up</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7134795</integer>
+			<key>Total Time</key><integer>293877</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:44Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AF9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/12%20Wake%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1096</key>
+		<dict>
+			<key>Track ID</key><integer>1096</integer>
+			<key>Name</key><string>You Oughta Know (Alternate Version - Hidden Track)</string>
+			<key>Artist</key><string>Alanis Morissette</string>
+			<key>Album</key><string>Jagged Little Pill</string>
+			<key>Genre</key><string>Alt.Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11914619</integer>
+			<key>Total Time</key><integer>493035</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2008-07-21T22:31:46Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alanis%20Morissette/Jagged%20Little%20Pill/13%20You%20Oughta%20Know%20(Alternate%20Version%20-%20Hidden%20Track).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1098</key>
+		<dict>
+			<key>Track ID</key><integer>1098</integer>
+			<key>Name</key><string>Nutshell</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7253870</integer>
+			<key>Total Time</key><integer>297639</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:24Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/01%20Nutshell.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1100</key>
+		<dict>
+			<key>Track ID</key><integer>1100</integer>
+			<key>Name</key><string>Brother</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7967952</integer>
+			<key>Total Time</key><integer>327392</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:25Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/02%20Brother.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1102</key>
+		<dict>
+			<key>Track ID</key><integer>1102</integer>
+			<key>Name</key><string>No Excuses</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7246976</integer>
+			<key>Total Time</key><integer>297351</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:27Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299545117</integer>
+			<key>Play Date UTC</key><date>2008-07-22T11:18:37Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/03%20No%20Excuses.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1104</key>
+		<dict>
+			<key>Track ID</key><integer>1104</integer>
+			<key>Name</key><string>Sludge Factory</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6754833</integer>
+			<key>Total Time</key><integer>276845</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:28Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/04%20Sludge%20Factory.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1106</key>
+		<dict>
+			<key>Track ID</key><integer>1106</integer>
+			<key>Name</key><string>Down In A Hole</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8421863</integer>
+			<key>Total Time</key><integer>346305</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:29Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299619503</integer>
+			<key>Play Date UTC</key><date>2008-07-23T07:58:23Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212AFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/05%20Down%20In%20A%20Hole.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1108</key>
+		<dict>
+			<key>Track ID</key><integer>1108</integer>
+			<key>Name</key><string>Angry Chair</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6741664</integer>
+			<key>Total Time</key><integer>276297</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:30Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B00</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/06%20Angry%20Chair.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1110</key>
+		<dict>
+			<key>Track ID</key><integer>1110</integer>
+			<key>Name</key><string>Rooster</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9739054</integer>
+			<key>Total Time</key><integer>401188</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:32Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300552125</integer>
+			<key>Play Date UTC</key><date>2008-08-03T03:02:05Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/07%20Rooster.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1112</key>
+		<dict>
+			<key>Track ID</key><integer>1112</integer>
+			<key>Name</key><string>Got Me Wrong</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7308418</integer>
+			<key>Total Time</key><integer>299911</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:32Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3301888758</integer>
+			<key>Play Date UTC</key><date>2008-08-18T14:19:18Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B02</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/08%20Got%20Me%20Wrong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1114</key>
+		<dict>
+			<key>Track ID</key><integer>1114</integer>
+			<key>Name</key><string>Heaven Beside You</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8224380</integer>
+			<key>Total Time</key><integer>338076</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:34Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/09%20Heaven%20Beside%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1116</key>
+		<dict>
+			<key>Track ID</key><integer>1116</integer>
+			<key>Name</key><string>Would?</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5471482</integer>
+			<key>Total Time</key><integer>223373</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:35Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/10%20Would_.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1118</key>
+		<dict>
+			<key>Track ID</key><integer>1118</integer>
+			<key>Name</key><string>Frogs</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10914564</integer>
+			<key>Total Time</key><integer>450168</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:36Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B05</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/11%20Frogs.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1120</key>
+		<dict>
+			<key>Track ID</key><integer>1120</integer>
+			<key>Name</key><string>Over Now</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10494518</integer>
+			<key>Total Time</key><integer>432666</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:38Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/12%20Over%20Now.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1122</key>
+		<dict>
+			<key>Track ID</key><integer>1122</integer>
+			<key>Name</key><string>Killer Is Me</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Album</key><string>Unplugged</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7882695</integer>
+			<key>Total Time</key><integer>323840</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2008-07-21T22:30:39Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3299763317</integer>
+			<key>Play Date UTC</key><date>2008-07-24T23:55:17Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alice%20in%20Chains/Unplugged/13%20Killer%20Is%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1124</key>
+		<dict>
+			<key>Track ID</key><integer>1124</integer>
+			<key>Name</key><string>Piano &#38; I</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2537788</integer>
+			<key>Total Time</key><integer>111490</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:17Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>176</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/01%20-%20Piano%20&#38;%20I.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1126</key>
+		<dict>
+			<key>Track ID</key><integer>1126</integer>
+			<key>Name</key><string>Girlfriend</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5288035</integer>
+			<key>Total Time</key><integer>214622</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:18Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B09</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/02%20-%20Girlfriend.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1128</key>
+		<dict>
+			<key>Track ID</key><integer>1128</integer>
+			<key>Name</key><string>How Come You Don't Call Me</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5513013</integer>
+			<key>Total Time</key><integer>237688</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:19Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/03%20-%20How%20Come%20You%20Don't%20Call%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1130</key>
+		<dict>
+			<key>Track ID</key><integer>1130</integer>
+			<key>Name</key><string>Fallin'</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5406717</integer>
+			<key>Total Time</key><integer>210259</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:20Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B0B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/04%20-%20Fallin'.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1132</key>
+		<dict>
+			<key>Track ID</key><integer>1132</integer>
+			<key>Name</key><string>Troubles</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6367046</integer>
+			<key>Total Time</key><integer>268956</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:22Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B0C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/05%20-%20Troubles.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1134</key>
+		<dict>
+			<key>Track ID</key><integer>1134</integer>
+			<key>Name</key><string>Rock Wit U</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9014253</integer>
+			<key>Total Time</key><integer>336718</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:24Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/06%20-%20Rock%20Wit%20U.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1136</key>
+		<dict>
+			<key>Track ID</key><integer>1136</integer>
+			<key>Name</key><string>A Woman's Worth</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7080793</integer>
+			<key>Total Time</key><integer>303386</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:25Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299462058</integer>
+			<key>Play Date UTC</key><date>2008-07-21T12:14:18Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Woman's Worth</string>
+			<key>Persistent ID</key><string>3B880FD268212B0E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/07%20-%20A%20Woman's%20Worth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1138</key>
+		<dict>
+			<key>Track ID</key><integer>1138</integer>
+			<key>Name</key><string>Jane Doe</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5840377</integer>
+			<key>Total Time</key><integer>228414</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:27Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/08%20-%20Jane%20Doe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1140</key>
+		<dict>
+			<key>Track ID</key><integer>1140</integer>
+			<key>Name</key><string>Goodbye</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6234936</integer>
+			<key>Total Time</key><integer>260754</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:28Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>189</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B10</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/09%20-%20Goodbye.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1142</key>
+		<dict>
+			<key>Track ID</key><integer>1142</integer>
+			<key>Name</key><string>The Life</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8881004</integer>
+			<key>Total Time</key><integer>325120</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:30Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>216</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Life</string>
+			<key>Persistent ID</key><string>3B880FD268212B11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/10%20-%20The%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1144</key>
+		<dict>
+			<key>Track ID</key><integer>1144</integer>
+			<key>Name</key><string>Mr. Man (duet with Jimmy Cozier)</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6405721</integer>
+			<key>Total Time</key><integer>249808</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:30Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>202</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B12</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/11%20-%20Mr.%20Man%20(duet%20with%20Jimmy%20Cozier).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1146</key>
+		<dict>
+			<key>Track ID</key><integer>1146</integer>
+			<key>Name</key><string>Never Felt This Way (interlude)</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2642136</integer>
+			<key>Total Time</key><integer>120973</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:31Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>169</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/12%20-%20Never%20Felt%20This%20Way%20(interlude).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1148</key>
+		<dict>
+			<key>Track ID</key><integer>1148</integer>
+			<key>Name</key><string>Butterflyz</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5607937</integer>
+			<key>Total Time</key><integer>248528</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:32Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>178</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B14</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/13%20-%20Butterflyz.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1150</key>
+		<dict>
+			<key>Track ID</key><integer>1150</integer>
+			<key>Name</key><string>Why Do I Feel So Sad</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6176680</integer>
+			<key>Total Time</key><integer>265900</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:34Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/14%20-%20Why%20Do%20I%20Feel%20So%20Sad.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1152</key>
+		<dict>
+			<key>Track ID</key><integer>1152</integer>
+			<key>Name</key><string>Caged Bird</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3149435</integer>
+			<key>Total Time</key><integer>182125</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:34Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>135</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/15%20-%20Caged%20Bird.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1154</key>
+		<dict>
+			<key>Track ID</key><integer>1154</integer>
+			<key>Name</key><string>Lovin U</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>Songs In A Minor</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5516550</integer>
+			<key>Total Time</key><integer>228440</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2008-07-22T02:04:36Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B17</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/Songs%20In%20A%20Minor/16%20-%20Lovin%20U.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1156</key>
+		<dict>
+			<key>Track ID</key><integer>1156</integer>
+			<key>Name</key><string>Harlem's Nocturne</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2642464</integer>
+			<key>Total Time</key><integer>104019</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:41Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299492337</integer>
+			<key>Play Date UTC</key><date>2008-07-21T20:38:57Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/01%20Harlem's%20Nocturne.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1158</key>
+		<dict>
+			<key>Track ID</key><integer>1158</integer>
+			<key>Name</key><string>Karma</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6291862</integer>
+			<key>Total Time</key><integer>256078</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:42Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/02%20Karma.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1160</key>
+		<dict>
+			<key>Track ID</key><integer>1160</integer>
+			<key>Name</key><string>Heartburn</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5140807</integer>
+			<key>Total Time</key><integer>208117</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:43Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/03%20Heartburn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1162</key>
+		<dict>
+			<key>Track ID</key><integer>1162</integer>
+			<key>Name</key><string>If I Was Your Woman / Walk on By</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4616710</integer>
+			<key>Total Time</key><integer>186279</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:45Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-07-17T23:09:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/04%20If%20I%20Was%20Your%20Woman_%20Walk%20on%20By.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1164</key>
+		<dict>
+			<key>Track ID</key><integer>1164</integer>
+			<key>Name</key><string>You Don't Know My Name</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8949473</integer>
+			<key>Total Time</key><integer>366811</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:46Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/05%20You%20Don't%20Know%20My%20Name.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1166</key>
+		<dict>
+			<key>Track ID</key><integer>1166</integer>
+			<key>Name</key><string>If I Ain't Got You</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5636724</integer>
+			<key>Total Time</key><integer>228780</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:48Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/06%20If%20I%20Ain't%20Got%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1168</key>
+		<dict>
+			<key>Track ID</key><integer>1168</integer>
+			<key>Name</key><string>Dairy featuring Tony!Toni!Tone!</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6967728</integer>
+			<key>Total Time</key><integer>284238</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:49Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/07%20Dairy%20featuring%20Tony!Toni!Tone!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1170</key>
+		<dict>
+			<key>Track ID</key><integer>1170</integer>
+			<key>Name</key><string>Dragon Days</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6787777</integer>
+			<key>Total Time</key><integer>276741</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:51Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3304170022</integer>
+			<key>Play Date UTC</key><date>2008-09-14T00:00:22Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/08%20Dragon%20Days.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1172</key>
+		<dict>
+			<key>Track ID</key><integer>1172</integer>
+			<key>Name</key><string>Wake Up</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6558940</integer>
+			<key>Total Time</key><integer>267206</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:52Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/09%20Wake%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1174</key>
+		<dict>
+			<key>Track ID</key><integer>1174</integer>
+			<key>Name</key><string>So Simple</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5659286</integer>
+			<key>Total Time</key><integer>229720</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:54Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/10%20So%20Simple.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1176</key>
+		<dict>
+			<key>Track ID</key><integer>1176</integer>
+			<key>Name</key><string>When You Really Love Someone</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6141421</integer>
+			<key>Total Time</key><integer>249808</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B22</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/11%20When%20You%20Really%20Love%20Someone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1178</key>
+		<dict>
+			<key>Track ID</key><integer>1178</integer>
+			<key>Name</key><string>Feeling U, Feeling Me [Interlude]</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3217384</integer>
+			<key>Total Time</key><integer>127973</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:56Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B23</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/12%20Feeling%20U,%20Feeling%20Me%20%5BInterlude%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1180</key>
+		<dict>
+			<key>Track ID</key><integer>1180</integer>
+			<key>Name</key><string>Slow Down</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6350173</integer>
+			<key>Total Time</key><integer>258507</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:57Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/13%20Slow%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1182</key>
+		<dict>
+			<key>Track ID</key><integer>1182</integer>
+			<key>Name</key><string>Samsonite Man</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6208489</integer>
+			<key>Total Time</key><integer>252604</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:37:59Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/14%20Samsonite%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1184</key>
+		<dict>
+			<key>Track ID</key><integer>1184</integer>
+			<key>Name</key><string>Nobody Not Really</string>
+			<key>Artist</key><string>Alicia Keys</string>
+			<key>Album</key><string>The Diary of Alicia Keys</string>
+			<key>Genre</key><string>R&#38;B</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4389743</integer>
+			<key>Total Time</key><integer>176822</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2008-07-21T20:38:00Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Diary of Alicia Keys</string>
+			<key>Persistent ID</key><string>3B880FD268212B26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Alicia%20Keys/The%20Diary%20of%20Alicia%20Keys/15%20Nobody%20Not%20Really.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1186</key>
+		<dict>
+			<key>Track ID</key><integer>1186</integer>
+			<key>Name</key><string>Rehab</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5218050</integer>
+			<key>Total Time</key><integer>215066</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:45Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299551450</integer>
+			<key>Play Date UTC</key><date>2008-07-22T13:04:10Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/01%20%20Amy%20Winehouse%20-%20Rehab.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1188</key>
+		<dict>
+			<key>Track ID</key><integer>1188</integer>
+			<key>Name</key><string>You Know I'm No Good</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6231876</integer>
+			<key>Total Time</key><integer>257306</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:46Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B28</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/02%20%20Amy%20Winehouse%20-%20You%20Know%20I'm%20No%20Good.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1190</key>
+		<dict>
+			<key>Track ID</key><integer>1190</integer>
+			<key>Name</key><string>Me And Mr Jones</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3736027</integer>
+			<key>Total Time</key><integer>153312</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:47Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/03%20%20Amy%20Winehouse%20-%20Me%20And%20Mr%20Jones.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1192</key>
+		<dict>
+			<key>Track ID</key><integer>1192</integer>
+			<key>Name</key><string>Just Friends</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4699002</integer>
+			<key>Total Time</key><integer>193436</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:48Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/04%20%20Amy%20Winehouse%20-%20Just%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1194</key>
+		<dict>
+			<key>Track ID</key><integer>1194</integer>
+			<key>Name</key><string>Back To Black</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse/Mark Ronson</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5850702</integer>
+			<key>Total Time</key><integer>241423</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:48Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/05%20%20Amy%20Winehouse%20-%20Back%20To%20Black.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1196</key>
+		<dict>
+			<key>Track ID</key><integer>1196</integer>
+			<key>Name</key><string>Love Is A Losing Game</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3789323</integer>
+			<key>Total Time</key><integer>155533</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:49Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/06%20%20Amy%20Winehouse%20-%20Love%20Is%20A%20Losing%20Game.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1198</key>
+		<dict>
+			<key>Track ID</key><integer>1198</integer>
+			<key>Name</key><string>Tears Dry On Their Own</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse/Nickolas Ashford/Valerie Simpson</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4534109</integer>
+			<key>Total Time</key><integer>186566</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:50Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/07%20%20Amy%20Winehouse%20-%20Tears%20Dry%20On%20Their%20Own.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1200</key>
+		<dict>
+			<key>Track ID</key><integer>1200</integer>
+			<key>Name</key><string>Wake Up Alone</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse/Paul O'Duffy</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5387344</integer>
+			<key>Total Time</key><integer>222119</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:51Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/08%20%20Amy%20Winehouse%20-%20Wake%20Up%20Alone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1202</key>
+		<dict>
+			<key>Track ID</key><integer>1202</integer>
+			<key>Name</key><string>Some Unholy War</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3483947</integer>
+			<key>Total Time</key><integer>142811</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:51Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299459473</integer>
+			<key>Play Date UTC</key><date>2008-07-21T11:31:13Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B2F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/09%20%20Amy%20Winehouse%20-%20Some%20Unholy%20War.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1204</key>
+		<dict>
+			<key>Track ID</key><integer>1204</integer>
+			<key>Name</key><string>He Can Only Hold Her</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse/Richard Poindexter/Robert Poindexter</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4053250</integer>
+			<key>Total Time</key><integer>166530</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:51Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-08-16T01:04:38Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/10%20%20Amy%20Winehouse%20-%20He%20Can%20Only%20Hold%20Her.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1206</key>
+		<dict>
+			<key>Track ID</key><integer>1206</integer>
+			<key>Name</key><string>Addicted</string>
+			<key>Artist</key><string>Amy Winehouse</string>
+			<key>Album Artist</key><string>Amy Winehouse</string>
+			<key>Composer</key><string>Amy Winehouse</string>
+			<key>Album</key><string>Back To Black</string>
+			<key>Genre</key><string>Soul</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4021854</integer>
+			<key>Total Time</key><integer>165224</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-24T20:55:52Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B31</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Amy%20Winehouse/Back%20To%20Black/11%20%20Amy%20Winehouse%20-%20Addicted.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1208</key>
+		<dict>
+			<key>Track ID</key><integer>1208</integer>
+			<key>Name</key><string>Why</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7155292</integer>
+			<key>Total Time</key><integer>293799</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:30Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299718399</integer>
+			<key>Play Date UTC</key><date>2008-07-24T11:26:39Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/01%20Why.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1210</key>
+		<dict>
+			<key>Track ID</key><integer>1210</integer>
+			<key>Name</key><string>Walking on Broken Glass</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6184184</integer>
+			<key>Total Time</key><integer>253335</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:31Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/02%20Walking%20on%20Broken%20Glass.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1212</key>
+		<dict>
+			<key>Track ID</key><integer>1212</integer>
+			<key>Name</key><string>Precious</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7508890</integer>
+			<key>Total Time</key><integer>308532</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:32Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3301510862</integer>
+			<key>Play Date UTC</key><date>2008-08-14T05:21:02Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/03%20Precious.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1214</key>
+		<dict>
+			<key>Track ID</key><integer>1214</integer>
+			<key>Name</key><string>Legend in My Living Room</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5524645</integer>
+			<key>Total Time</key><integer>225854</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:33Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2008-07-19T22:25:21Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/04%20Legend%20in%20My%20Living%20Room.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1216</key>
+		<dict>
+			<key>Track ID</key><integer>1216</integer>
+			<key>Name</key><string>Cold</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6384785</integer>
+			<key>Total Time</key><integer>261694</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:34Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300828154</integer>
+			<key>Play Date UTC</key><date>2008-08-06T07:42:34Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/05%20Cold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1218</key>
+		<dict>
+			<key>Track ID</key><integer>1218</integer>
+			<key>Name</key><string>Money Can't Buy It</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7303892</integer>
+			<key>Total Time</key><integer>299990</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:35Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2008-08-08T04:16:36Z</date>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/06%20Money%20Can't%20Buy%20It.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1220</key>
+		<dict>
+			<key>Track ID</key><integer>1220</integer>
+			<key>Name</key><string>Little Bird</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6811738</integer>
+			<key>Total Time</key><integer>279484</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:36Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299314875</integer>
+			<key>Play Date UTC</key><date>2008-07-19T19:21:15Z</date>
+			<key>Rating</key><integer>80</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B38</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/07%20Little%20Bird.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1222</key>
+		<dict>
+			<key>Track ID</key><integer>1222</integer>
+			<key>Name</key><string>Primitive</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6330247</integer>
+			<key>Total Time</key><integer>259422</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:37Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/08%20Primitive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1224</key>
+		<dict>
+			<key>Track ID</key><integer>1224</integer>
+			<key>Name</key><string>Stay by Me</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9434221</integer>
+			<key>Total Time</key><integer>388754</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:39Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B3A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/09%20Stay%20by%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1226</key>
+		<dict>
+			<key>Track ID</key><integer>1226</integer>
+			<key>Name</key><string>The Gift</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7177868</integer>
+			<key>Total Time</key><integer>294739</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:40Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Gift</string>
+			<key>Persistent ID</key><string>3B880FD268212B3B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/10%20The%20Gift.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1228</key>
+		<dict>
+			<key>Track ID</key><integer>1228</integer>
+			<key>Name</key><string>Keep Young and Beautiful</string>
+			<key>Artist</key><string>Annie Lennox</string>
+			<key>Album</key><string>Diva</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3395562</integer>
+			<key>Total Time</key><integer>137142</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2008-07-24T10:39:40Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Album Rating</key><integer>80</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Annie%20Lennox/Diva/11%20Keep%20Young%20and%20Beautiful.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1230</key>
+		<dict>
+			<key>Track ID</key><integer>1230</integer>
+			<key>Name</key><string>Come To Daddy (Pappy Mix)</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6385871</integer>
+			<key>Total Time</key><integer>261616</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:19Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/01%20Come%20To%20Daddy%20(Pappy%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1232</key>
+		<dict>
+			<key>Track ID</key><integer>1232</integer>
+			<key>Name</key><string>Flim</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4359584</integer>
+			<key>Total Time</key><integer>177188</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:19Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299322800</integer>
+			<key>Play Date UTC</key><date>2008-07-19T21:33:20Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/02%20Flim.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1234</key>
+		<dict>
+			<key>Track ID</key><integer>1234</integer>
+			<key>Name</key><string>Come To Daddy (Little Lord Faulteroy Mix)</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5634188</integer>
+			<key>Total Time</key><integer>230295</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:20Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/03%20Come%20To%20Daddy%20(Little%20Lord%20Faulteroy%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1236</key>
+		<dict>
+			<key>Track ID</key><integer>1236</integer>
+			<key>Name</key><string>Bucephalus Bouncing Ball</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8406494</integer>
+			<key>Total Time</key><integer>345808</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:22Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B40</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/04%20Bucephalus%20Bouncing%20Ball.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1238</key>
+		<dict>
+			<key>Track ID</key><integer>1238</integer>
+			<key>Name</key><string>To Cure A Weakling Child (Contour Regard)</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7557009</integer>
+			<key>Total Time</key><integer>310413</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:23Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/05%20To%20Cure%20A%20Weakling%20Child%20(Contour%20Regard).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1240</key>
+		<dict>
+			<key>Track ID</key><integer>1240</integer>
+			<key>Name</key><string>Funny Little Man</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5829768</integer>
+			<key>Total Time</key><integer>238445</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:24Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B42</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/06%20Funny%20Little%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1242</key>
+		<dict>
+			<key>Track ID</key><integer>1242</integer>
+			<key>Name</key><string>Come To Daddy (Mummy Mix)</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6466120</integer>
+			<key>Total Time</key><integer>264960</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:25Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299472348</integer>
+			<key>Play Date UTC</key><date>2008-07-21T15:05:48Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B43</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/07%20Come%20To%20Daddy%20(Mummy%20Mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1244</key>
+		<dict>
+			<key>Track ID</key><integer>1244</integer>
+			<key>Name</key><string>IZ-US</string>
+			<key>Artist</key><string>Aphex Twin</string>
+			<key>Album</key><string>Come To Daddy</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4353943</integer>
+			<key>Total Time</key><integer>176953</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2008-07-22T01:58:26Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299670710</integer>
+			<key>Play Date UTC</key><date>2008-07-23T22:11:50Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B44</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Aphex%20Twin/Come%20To%20Daddy/08%20IZ-US.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1246</key>
+		<dict>
+			<key>Track ID</key><integer>1246</integer>
+			<key>Name</key><string>Black Mirror</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6165666</integer>
+			<key>Total Time</key><integer>253413</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300821747</integer>
+			<key>Play Date UTC</key><date>2008-08-06T05:55:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/101-arcade_fire-black_mirror.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1248</key>
+		<dict>
+			<key>Track ID</key><integer>1248</integer>
+			<key>Name</key><string>Keep The Car Running</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5940725</integer>
+			<key>Total Time</key><integer>209136</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>225</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299643907</integer>
+			<key>Play Date UTC</key><date>2008-07-23T14:45:07Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B46</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/102-arcade_fire-keep_the_car_running.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1250</key>
+		<dict>
+			<key>Track ID</key><integer>1250</integer>
+			<key>Name</key><string>Neon Bible</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2991637</integer>
+			<key>Total Time</key><integer>136698</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/103-arcade_fire-neon_bible.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1252</key>
+		<dict>
+			<key>Track ID</key><integer>1252</integer>
+			<key>Name</key><string>Intervention</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6903513</integer>
+			<key>Total Time</key><integer>259056</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B48</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/104-arcade_fire-intervention.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1254</key>
+		<dict>
+			<key>Track ID</key><integer>1254</integer>
+			<key>Name</key><string>Black Wave/Bad Vibrations</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5492118</integer>
+			<key>Total Time</key><integer>237557</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300183887</integer>
+			<key>Play Date UTC</key><date>2008-07-29T20:44:47Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B49</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/105-arcade_fire-black_wave-bad_vibrations.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1256</key>
+		<dict>
+			<key>Track ID</key><integer>1256</integer>
+			<key>Name</key><string>Ocean Of Noise</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6237895</integer>
+			<key>Total Time</key><integer>293564</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>169</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/106-arcade_fire-ocean_of_noise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1258</key>
+		<dict>
+			<key>Track ID</key><integer>1258</integer>
+			<key>Name</key><string>The Well And The Lighthouse</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4842112</integer>
+			<key>Total Time</key><integer>236747</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>162</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Well And The Lighthouse</string>
+			<key>Persistent ID</key><string>3B880FD268212B4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/107-arcade_fire-the_well_and_the_lighthouse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1260</key>
+		<dict>
+			<key>Track ID</key><integer>1260</integer>
+			<key>Name</key><string>(Antichrist Television Blues)</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7262831</integer>
+			<key>Total Time</key><integer>310334</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>186</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B4C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/108-arcade_fire-(antichrist_television_blues).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1262</key>
+		<dict>
+			<key>Track ID</key><integer>1262</integer>
+			<key>Name</key><string>Windowsill</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5598057</integer>
+			<key>Total Time</key><integer>256444</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>173</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3302681207</integer>
+			<key>Play Date UTC</key><date>2008-08-27T18:26:47Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-07-28T02:23:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/109-arcade_fire-windowsill.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1264</key>
+		<dict>
+			<key>Track ID</key><integer>1264</integer>
+			<key>Name</key><string>No Cars Go</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9472635</integer>
+			<key>Total Time</key><integer>343666</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>219</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/110-arcade_fire-no_cars_go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1266</key>
+		<dict>
+			<key>Track ID</key><integer>1266</integer>
+			<key>Name</key><string>My Body Is A Cage</string>
+			<key>Artist</key><string>Arcade Fire</string>
+			<key>Album</key><string>Neon Bible</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6231208</integer>
+			<key>Total Time</key><integer>287399</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:56:55Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>172</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Arcade%20Fire/Neon%20Bible/111-arcade_fire-my_body_is_a_cage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1268</key>
+		<dict>
+			<key>Track ID</key><integer>1268</integer>
+			<key>Name</key><string>Brainstorm</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4438480</integer>
+			<key>Total Time</key><integer>170318</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:57:31Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/01-%20Brainstorm.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1270</key>
+		<dict>
+			<key>Track ID</key><integer>1270</integer>
+			<key>Name</key><string>Teddy Picker</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4733000</integer>
+			<key>Total Time</key><integer>163186</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:57:42Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/02-%20Teddy%20Picker.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1272</key>
+		<dict>
+			<key>Track ID</key><integer>1272</integer>
+			<key>Name</key><string>D Is For Dangerous</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3860951</integer>
+			<key>Total Time</key><integer>136150</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:57:57Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299760668</integer>
+			<key>Play Date UTC</key><date>2008-07-24T23:11:08Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B52</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/03-%20D%20is%20for%20Dangerous.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1274</key>
+		<dict>
+			<key>Track ID</key><integer>1274</integer>
+			<key>Name</key><string>Balaclava</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4487491</integer>
+			<key>Total Time</key><integer>169273</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:57:59Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>209</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/04-%20Balaclava.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1276</key>
+		<dict>
+			<key>Track ID</key><integer>1276</integer>
+			<key>Name</key><string>Flourescent Adolescent</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4463435</integer>
+			<key>Total Time</key><integer>177580</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:02Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>198</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/05-%20Flourescent%20Adolescent.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1278</key>
+		<dict>
+			<key>Track ID</key><integer>1278</integer>
+			<key>Name</key><string>Only Ones Who Knows</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4186031</integer>
+			<key>Total Time</key><integer>182804</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:21Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>180</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B55</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/06-%20Only%20Ones%20Who%20Knows.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1280</key>
+		<dict>
+			<key>Track ID</key><integer>1280</integer>
+			<key>Name</key><string>Do Me A Favour</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5284849</integer>
+			<key>Total Time</key><integer>207307</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:32Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/07-%20Do%20Me%20a%20Favour.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1282</key>
+		<dict>
+			<key>Track ID</key><integer>1282</integer>
+			<key>Name</key><string>This House Is A Circus</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5233110</integer>
+			<key>Total Time</key><integer>189727</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:40Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B57</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/08-%20This%20House%20is%20a%20Circus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1284</key>
+		<dict>
+			<key>Track ID</key><integer>1284</integer>
+			<key>Name</key><string>If You Were There, Beware</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7925875</integer>
+			<key>Total Time</key><integer>274259</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:49Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>229</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/09-%20If%20You%20Were%20There%20Beware.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1286</key>
+		<dict>
+			<key>Track ID</key><integer>1286</integer>
+			<key>Name</key><string>The Bad Thing</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3948796</integer>
+			<key>Total Time</key><integer>143255</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:58:57Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299812061</integer>
+			<key>Play Date UTC</key><date>2008-07-25T13:27:41Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Bad Thing</string>
+			<key>Persistent ID</key><string>3B880FD268212B59</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/10-%20The%20Bad%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1288</key>
+		<dict>
+			<key>Track ID</key><integer>1288</integer>
+			<key>Name</key><string>Old Yellow Bricks</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5076020</integer>
+			<key>Total Time</key><integer>191268</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:59:01Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/11-%20Old%20Yellow%20Bricks.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1290</key>
+		<dict>
+			<key>Track ID</key><integer>1290</integer>
+			<key>Name</key><string>505</string>
+			<key>Artist</key><string>Arctic Monkeys</string>
+			<key>Album</key><string>Favourite Worst Nightmare</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6495724</integer>
+			<key>Total Time</key><integer>253648</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2007-06-25T05:59:11Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>203</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Artic%20Monkeys/Favourite%20Worst%20Nightmare/12-%20Sos.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1292</key>
+		<dict>
+			<key>Track ID</key><integer>1292</integer>
+			<key>Name</key><string>Cochise</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5418029</integer>
+			<key>Total Time</key><integer>222406</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:17Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 0000163E 0000151A 00005581 0000431A 0003347E 00033495 00008000 00008000 0000EA60 0000EA60</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299647451</integer>
+			<key>Play Date UTC</key><date>2008-07-23T15:44:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/01%20Cochise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1294</key>
+		<dict>
+			<key>Track ID</key><integer>1294</integer>
+			<key>Name</key><string>Show Me How To Live</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6750002</integer>
+			<key>Total Time</key><integer>277916</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:18Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/02%20Show%20Me%20How%20To%20Live.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1296</key>
+		<dict>
+			<key>Track ID</key><integer>1296</integer>
+			<key>Name</key><string>Gasoline</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6787608</integer>
+			<key>Total Time</key><integer>279484</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:19Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299655808</integer>
+			<key>Play Date UTC</key><date>2008-07-23T18:03:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/03%20Gasoline.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1298</key>
+		<dict>
+			<key>Track ID</key><integer>1298</integer>
+			<key>Name</key><string>What You Are</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6066289</integer>
+			<key>Total Time</key><integer>249417</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:20Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00001E20 00001A86 00007054 00008535 000222F7 0003347E 00008000 00008000 00011170 00011170</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/04%20What%20You%20Are.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1300</key>
+		<dict>
+			<key>Track ID</key><integer>1300</integer>
+			<key>Name</key><string>Like A Stone</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7137727</integer>
+			<key>Total Time</key><integer>294060</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:21Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000E8F 00000DC7 000057A9 0000691C 00044605 00044605 00008000 00008000 0000EAA5 000222F7</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/05%20Like%20A%20Stone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1302</key>
+		<dict>
+			<key>Track ID</key><integer>1302</integer>
+			<key>Name</key><string>Set It Off</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6398908</integer>
+			<key>Total Time</key><integer>263288</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:22Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299624329</integer>
+			<key>Play Date UTC</key><date>2008-07-23T09:18:49Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B61</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/06%20Set%20It%20Off.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1304</key>
+		<dict>
+			<key>Track ID</key><integer>1304</integer>
+			<key>Name</key><string>Shadow On The Sun</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8323617</integer>
+			<key>Total Time</key><integer>343484</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:23Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B62</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/07%20Shadow%20On%20The%20Sun.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1306</key>
+		<dict>
+			<key>Track ID</key><integer>1306</integer>
+			<key>Name</key><string>I Am The Highway</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8119234</integer>
+			<key>Total Time</key><integer>334968</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:24Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/08%20I%20Am%20The%20Highway.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1308</key>
+		<dict>
+			<key>Track ID</key><integer>1308</integer>
+			<key>Name</key><string>Exploder</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5026194</integer>
+			<key>Total Time</key><integer>206080</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:25Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00001479 000010F0 00005D2B 000037C3 0001FC15 00029855 00008000 00008000 00009C40 00009C40</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3301516331</integer>
+			<key>Play Date UTC</key><date>2008-08-14T06:52:11Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B64</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/09%20Exploder.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1310</key>
+		<dict>
+			<key>Track ID</key><integer>1310</integer>
+			<key>Name</key><string>Hypnotize</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5039988</integer>
+			<key>Total Time</key><integer>206654</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:26Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000F01 00000D8C 000034F1 00003353 0002BF4E 0001D505 00008000 00007E82 0002BF37 0002E647</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B65</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/10%20Hypnotize.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1312</key>
+		<dict>
+			<key>Track ID</key><integer>1312</integer>
+			<key>Name</key><string>Bring Em Back Alive</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7989745</integer>
+			<key>Total Time</key><integer>329560</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:27Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00001332 000012B4 0000481B 00004229 00049425 00049425 00008000 00008000 00024A1E 0002E65E</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-08-18T14:26:23Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/11%20Bring%20Em%20Back%20Alive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1314</key>
+		<dict>
+			<key>Track ID</key><integer>1314</integer>
+			<key>Name</key><string>Light My Way</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7366904</integer>
+			<key>Total Time</key><integer>303621</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:28Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/12%20Light%20My%20Way.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1316</key>
+		<dict>
+			<key>Track ID</key><integer>1316</integer>
+			<key>Name</key><string>Getaway Car</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7271265</integer>
+			<key>Total Time</key><integer>299624</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:29Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000A89 00000B9B 0000349F 00009C0C 0001FBD0 000382B5 00008000 00008000 00033450 0001FBD0</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3299765445</integer>
+			<key>Play Date UTC</key><date>2008-07-25T00:30:45Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B68</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/13%20Getaway%20Car.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1318</key>
+		<dict>
+			<key>Track ID</key><integer>1318</integer>
+			<key>Name</key><string>The Last Remaining Light</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Audioslave</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7700447</integer>
+			<key>Total Time</key><integer>317518</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:30Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Last Remaining Light</string>
+			<key>Persistent ID</key><string>3B880FD268212B69</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Audioslave/14%20The%20Last%20Remaining%20Light.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1320</key>
+		<dict>
+			<key>Track ID</key><integer>1320</integer>
+			<key>Name</key><string>Your Time Has Come</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8224105</integer>
+			<key>Total Time</key><integer>255111</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:38Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:04Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/01%20Your%20Time%20Has%20Come.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1322</key>
+		<dict>
+			<key>Track ID</key><integer>1322</integer>
+			<key>Name</key><string>Out Of Exile</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9367214</integer>
+			<key>Total Time</key><integer>290847</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:39Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/02%20Out%20of%20Exile.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1324</key>
+		<dict>
+			<key>Track ID</key><integer>1324</integer>
+			<key>Name</key><string>Be Yourself</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8989793</integer>
+			<key>Total Time</key><integer>279040</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:41Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/03%20Be%20Yourself.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1326</key>
+		<dict>
+			<key>Track ID</key><integer>1326</integer>
+			<key>Name</key><string>Doesn't Remind Me</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8234959</integer>
+			<key>Total Time</key><integer>255451</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:42Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/04%20Doesn't%20Remind%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1328</key>
+		<dict>
+			<key>Track ID</key><integer>1328</integer>
+			<key>Name</key><string>Drown Me Slowly</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7526042</integer>
+			<key>Total Time</key><integer>233299</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:43Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/05%20Drown%20Me%20Slowly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1330</key>
+		<dict>
+			<key>Track ID</key><integer>1330</integer>
+			<key>Name</key><string>Heaven's Dead</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8900450</integer>
+			<key>Total Time</key><integer>276271</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:45Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/06%20Heavens%20Dead.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1332</key>
+		<dict>
+			<key>Track ID</key><integer>1332</integer>
+			<key>Name</key><string>The Worm</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7654625</integer>
+			<key>Total Time</key><integer>237322</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:46Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Worm</string>
+			<key>Persistent ID</key><string>3B880FD268212B70</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/07%20The%20Worm.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1334</key>
+		<dict>
+			<key>Track ID</key><integer>1334</integer>
+			<key>Name</key><string>Man or Animal</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7510175</integer>
+			<key>Total Time</key><integer>232803</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:47Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B71</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/08%20Man%20or%20Animal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1336</key>
+		<dict>
+			<key>Track ID</key><integer>1336</integer>
+			<key>Name</key><string>Yesterday or Tommorow</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8806938</integer>
+			<key>Total Time</key><integer>273345</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:48Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/09%20Yesterday%20or%20Tomorrow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1338</key>
+		<dict>
+			<key>Track ID</key><integer>1338</integer>
+			<key>Name</key><string>Dandelion</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8946372</integer>
+			<key>Total Time</key><integer>277681</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:50Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B73</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/10%20Dandelion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1340</key>
+		<dict>
+			<key>Track ID</key><integer>1340</integer>
+			<key>Name</key><string>#1 Zero</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9616875</integer>
+			<key>Total Time</key><integer>298657</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:51Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B74</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/11%20%231%20Zero.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1342</key>
+		<dict>
+			<key>Track ID</key><integer>1342</integer>
+			<key>Name</key><string>The Curse</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10277362</integer>
+			<key>Total Time</key><integer>319294</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:53Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Curse</string>
+			<key>Persistent ID</key><string>3B880FD268212B75</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/12%20The%20Curse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1344</key>
+		<dict>
+			<key>Track ID</key><integer>1344</integer>
+			<key>Name</key><string>Like a Stone (live)</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Out of Exile</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8440372</integer>
+			<key>Total Time</key><integer>261877</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2008-07-23T07:28:54Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3300352925</integer>
+			<key>Play Date UTC</key><date>2008-07-31T19:42:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B76</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Out%20of%20Exile/13%20Like%20a%20Stone%20(Live).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1346</key>
+		<dict>
+			<key>Track ID</key><integer>1346</integer>
+			<key>Name</key><string>Revelations</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10199154</integer>
+			<key>Total Time</key><integer>252656</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:03Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/01%20-%20Revelations.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1348</key>
+		<dict>
+			<key>Track ID</key><integer>1348</integer>
+			<key>Name</key><string>One And The Same</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8818849</integer>
+			<key>Total Time</key><integer>218148</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:03Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/02%20-%20One%20And%20The%20Same.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1350</key>
+		<dict>
+			<key>Track ID</key><integer>1350</integer>
+			<key>Name</key><string>Sound Of A Gun</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10507402</integer>
+			<key>Total Time</key><integer>260362</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B79</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/03%20-%20Sound%20Of%20A%20Gun.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1352</key>
+		<dict>
+			<key>Track ID</key><integer>1352</integer>
+			<key>Name</key><string>Until We Fall</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9327711</integer>
+			<key>Total Time</key><integer>230870</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:06Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/04%20-%20Until%20We%20Fall.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1354</key>
+		<dict>
+			<key>Track ID</key><integer>1354</integer>
+			<key>Name</key><string>Original Fire</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8846013</integer>
+			<key>Total Time</key><integer>218827</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:08Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/05%20-%20Original%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1356</key>
+		<dict>
+			<key>Track ID</key><integer>1356</integer>
+			<key>Name</key><string>Broken City</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9239937</integer>
+			<key>Total Time</key><integer>228649</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:09Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/06%20-%20Broken%20City.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1358</key>
+		<dict>
+			<key>Track ID</key><integer>1358</integer>
+			<key>Name</key><string>Somedays</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8650612</integer>
+			<key>Total Time</key><integer>213942</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:11Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/07%20-%20Somedays.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1360</key>
+		<dict>
+			<key>Track ID</key><integer>1360</integer>
+			<key>Name</key><string>Shape Of Things To Come</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11081060</integer>
+			<key>Total Time</key><integer>274703</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:12Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/08%20-%20Shape%20Of%20Things%20To%20Come.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1362</key>
+		<dict>
+			<key>Track ID</key><integer>1362</integer>
+			<key>Name</key><string>Jewel Of The Summertime</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9452064</integer>
+			<key>Total Time</key><integer>233978</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:14Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/09%20-%20Jewel%20Of%20The%20Summertime.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1364</key>
+		<dict>
+			<key>Track ID</key><integer>1364</integer>
+			<key>Name</key><string>Wide Awake</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10763398</integer>
+			<key>Total Time</key><integer>266762</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:16Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3299629971</integer>
+			<key>Play Date UTC</key><date>2008-07-23T10:52:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2008-07-18T23:44:54Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/10%20-%20Wide%20Awake.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1366</key>
+		<dict>
+			<key>Track ID</key><integer>1366</integer>
+			<key>Name</key><string>Nothing Left To Say But Goodbye</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8613019</integer>
+			<key>Total Time</key><integer>213002</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:17Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/11%20-%20Nothing%20Left%20To%20Say%20But%20Goodbye.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1368</key>
+		<dict>
+			<key>Track ID</key><integer>1368</integer>
+			<key>Name</key><string>Moth</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album</key><string>Revelations</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12011000</integer>
+			<key>Total Time</key><integer>297952</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-07-23T07:29:19Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B880FD268212B82</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Audioslave/Revelations/12%20-%20Moth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1370</key>
+		<dict>
+			<key>Track ID</key><integer>1370</integer>
+			<key>Name</key><string>HBO Special</string>
+			<key>Artist</key><string>Chris Rock</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>53623812</integer>
+			<key>Total Time</key><integer>3351431</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:04Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Chris%20Rock%20-%20HBO%20Special.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1372</key>
+		<dict>
+			<key>Track ID</key><integer>1372</integer>
+			<key>Name</key><string>Birchum Applies For A Job</string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3495936</integer>
+			<key>Total Time</key><integer>218462</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Birchum%20Applies%20For%20A%20Job.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1374</key>
+		<dict>
+			<key>Track ID</key><integer>1374</integer>
+			<key>Name</key><string>Spoonie Luv Pitches Card Ideas</string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4149248</integer>
+			<key>Total Time</key><integer>259265</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Spoonie%20Luv%20Pitches%20Card%20Ideas.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1376</key>
+		<dict>
+			<key>Track ID</key><integer>1376</integer>
+			<key>Name</key><string>Spoonie Luv Sends Flowers</string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2876783</integer>
+			<key>Total Time</key><integer>179748</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Spoonie%20Luv%20Sends%20Flowers.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1378</key>
+		<dict>
+			<key>Track ID</key><integer>1378</integer>
+			<key>Name</key><string>Spoonie Luv Wants A Tee Time</string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3039232</integer>
+			<key>Total Time</key><integer>189831</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Spoonie%20Luv%20Wants%20A%20Tee%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1380</key>
+		<dict>
+			<key>Track ID</key><integer>1380</integer>
+			<key>Name</key><string>Spoonie Luv Places A Personal </string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3651584</integer>
+			<key>Total Time</key><integer>228101</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Spoony%20Luv%20Classifieds%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1382</key>
+		<dict>
+			<key>Track ID</key><integer>1382</integer>
+			<key>Name</key><string>Vomiting Phone Sex</string>
+			<key>Artist</key><string>Crank Yankers</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2726127</integer>
+			<key>Total Time</key><integer>170370</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Crank%20Yankers%20-%20Vomiting%20Phone%20Sex.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1384</key>
+		<dict>
+			<key>Track ID</key><integer>1384</integer>
+			<key>Name</key><string>HBO Special</string>
+			<key>Artist</key><string>Dana Carvey</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>39803008</integer>
+			<key>Total Time</key><integer>2487588</integer>
+			<key>Date Modified</key><date>2008-07-23T23:38:05Z</date>
+			<key>Date Added</key><date>2008-07-17T19:20:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>3B880FD268212B8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/G:/MP3/Base%20Miles/Dana%20Carvey%20-%20HBO%20special.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>1386</key>
+		<dict>
+			<key>Track ID</key><integer>1386</integer>
+			<key>Name</key><string>HBO Special</string>
+			<key>Artist</key><string>Dave Chapelle</string>
+			<key>Genre</key><string>Comedy</str

@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>8.2.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/</string>
+	<key>Library Persistent ID</key><string>542CEAB7C8BAE946</string>
+	<key>Tracks</key>
+	<dict>
+		<key>124</key>
+		<dict>
+			<key>Track ID</key><integer>124</integer>
+			<key>Name</key><string>2b Managing the Non-Profit Organization</string>
+			<key>Artist</key><string>Peter Drucker</string>
+			<key>Album</key><string>Managing the Non-Profit Organization</string>
+			<key>Genre</key><string>AudioBook</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15096591</integer>
+			<key>Total Time</key><integer>2680320</integer>
+			<key>Date Modified</key><date>2008-12-17T18:37:02Z</date>
+			<key>Date Added</key><date>2008-12-17T17:36:38Z</date>
+			<key>Bit Rate</key><integer>45</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>21B422A222B952AD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/Peter%20Drucker/Managing%20the%20Non-Profit%20Organization/2b%20Managing%20the%20Non-Profit%20Organizat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>126</key>
+		<dict>
+			<key>Track ID</key><integer>126</integer>
+			<key>Name</key><string>1a Managing the Non-Profit Organization</string>
+			<key>Artist</key><string>Peter Drucker</string>
+			<key>Album</key><string>Managing the Non-Profit Organization</string>
+			<key>Genre</key><string>AudioBook</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16393005</integer>
+			<key>Total Time</key><integer>2683402</integer>
+			<key>Date Modified</key><date>2008-12-17T18:37:02Z</date>
+			<key>Date Added</key><date>2008-12-17T17:36:38Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>21B422A222B952AF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/Peter%20Drucker/Managing%20the%20Non-Profit%20Organization/1a%20Managing%20the%20Non-Profit%20Organizat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>128</key>
+		<dict>
+			<key>Track ID</key><integer>128</integer>
+			<key>Name</key><string>1b Managing the Non-Profit Organization</string>
+			<key>Artist</key><string>Peter Drucker</string>
+			<key>Album</key><string>Managing the Non-Profit Organization</string>
+			<key>Genre</key><string>AudioBook</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16412357</integer>
+			<key>Total Time</key><integer>2672195</integer>
+			<key>Date Modified</key><date>2008-12-17T18:37:02Z</date>
+			<key>Date Added</key><date>2008-12-17T17:36:38Z</date>
+			<key>Bit Rate</key><integer>49</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>21B422A222B952B0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/Peter%20Drucker/Managing%20the%20Non-Profit%20Organization/1b%20Managing%20the%20Non-Profit%20Organizat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>130</key>
+		<dict>
+			<key>Track ID</key><integer>130</integer>
+			<key>Name</key><string>2a Managing the Non-Profit Organization</string>
+			<key>Artist</key><string>Peter Drucker</string>
+			<key>Album</key><string>Managing the Non-Profit Organization</string>
+			<key>Genre</key><string>AudioBook</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>16653124</integer>
+			<key>Total Time</key><integer>2724205</integer>
+			<key>Date Modified</key><date>2008-12-17T18:37:02Z</date>
+			<key>Date Added</key><date>2008-12-17T17:36:38Z</date>
+			<key>Bit Rate</key><integer>48</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Persistent ID</key><string>21B422A222B952B1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/Peter%20Drucker/Managing%20the%20Non-Profit%20Organization/2a%20Managing%20the%20Non-Profit%20Organizat.mp3</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>132</key>
+		<dict>
+			<key>Track ID</key><integer>132</integer>
+			<key>Name</key><string>strutter.s01e01</string>
+			<key>Kind</key><string>MPEG-4 video file</string>
+			<key>Size</key><integer>55849326</integer>
+			<key>Total Time</key><integer>1245674</integer>
+			<key>Date Modified</key><date>2009-01-08T18:22:33Z</date>
+			<key>Date Added</key><date>2009-01-08T17:23:08Z</date>
+			<key>Bit Rate</key><integer>55</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3327491973</integer>
+			<key>Play Date UTC</key><date>2009-06-10T20:19:33Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>26CCEC7F4F961B2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/Movies/strutter.s01e01.mp4</string>
+			<key>File Folder Count</key><integer>3</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>172</key>
+		<dict>
+			<key>Track ID</key><integer>172</integer>
+			<key>Name</key><string>8/10/2009 5:54 PM</string>
+			<key>Kind</key><string>Apple Lossless audio file</string>
+			<key>Size</key><integer>184594</integer>
+			<key>Total Time</key><integer>18944</integer>
+			<key>Date Modified</key><date>2009-08-10T22:54:45Z</date>
+			<key>Date Added</key><date>2009-08-21T11:52:44Z</date>
+			<key>Bit Rate</key><integer>77</integer>
+			<key>Sample Rate</key><integer>8000</integer>
+			<key>Persistent ID</key><string>44A7E2F46A510164</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/WINNT/Profiles/A062616/My%20Documents/My%20Music/iTunes/iTunes%20Music/20090810%20175445.m4a</string>
+			<key>File Folder Count</key><integer>2</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>212</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE947</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Playlist ID</key><integer>266</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE951</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAARIbEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAARIbEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Playlist ID</key><integer>274</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE952</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAgAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAgAYAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Playlist ID</key><integer>278</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE953</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAgAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAgEQAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Playlist ID</key><integer>259</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE950</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Playlist ID</key><integer>281</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE954</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAgAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAgAwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes DJ</string>
+			<key>Playlist ID</key><integer>240</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE94E</string>
+			<key>Distinguished Kind</key><integer>22</integer>
+			<key>Party Shuffle</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Playlist ID</key><integer>290</integer>
+			<key>Playlist Persistent ID</key><string>9BEE52AA59D68CE6</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Playlist ID</key><integer>221</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE948</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music Videos</string>
+			<key>Playlist ID</key><integer>237</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE94D</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Playlist ID</key><integer>224</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE949</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Playlist ID</key><integer>234</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE94C</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Playlist ID</key><integer>231</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE94B</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Playlist ID</key><integer>227</integer>
+			<key>Playlist Persistent ID</key><string>542CEAB7C8BAE94A</string>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Voice Memos</string>
+			<key>Playlist ID</key><integer>334</integer>
+			<key>Playlist Persistent ID</key><string>BBCD21D1351F3AD9</string>
+			<key>Distinguished Kind</key><integer>17</integer>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>172</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
