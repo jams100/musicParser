@@ -12,6 +12,7 @@ import org.hibernate.query.Query;
 import entities.Playlist;
 import entities.Track;
 
+//comment
 public class PlaylistDAO {
 	Configuration config;
 	SessionFactory sFactory;
