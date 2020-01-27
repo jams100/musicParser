@@ -7,6 +7,7 @@ import org.hibernate.cfg.Configuration;
 
 // Singleton Hibernate Utility class with a method to get Session Factory.
 public class HibernateUtil
+//This is a comment
 {
     private static SessionFactory sessionFactory;
 
